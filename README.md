@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm [Your Name], a passionate developer with a love for coding, problem-solving, and continuous learning. I'm excited to share my projects and collaborate with like-minded individuals.
+Hello! I'm [Rutvik Tanti], a passionate developer with a love for coding, problem-solving, and continuous learning. I'm excited to share my projects and collaborate with like-minded individuals.
 
 ## 🌟 What You'll Find Here
 
-- **Projects:** A collection of my personal and collaborative projects, showcasing my skills in [Your Programming Languages/Technologies].
+- **Projects:** A collection of my personal and collaborative projects, showcasing my skills in FLutter/Dart.
 - **Open Source Contributions:** My contributions to open source projects.
 - **Learning Journey:** Repositories where I explore new technologies, languages, and frameworks.
 
@@ -38,11 +38,15 @@ Hello! I'm [Your Name], a passionate developer with a love for coding, problem-s
 - **[gallery app](https://github.com/rutvik-tanti/gallery):**
   - Simple gallery app show images, videos and delete, detail, share, favorite, play video and images display viewpager
     
-- **[Project 3 Name](Link to Project 3 Repository):** Brief description of the project.
+- **[PHP backend](https://github.com/rutvik-tanti/php_backend):**
+  - Me and my friends help to create php backend for last semester project in college
+ 
+- **[Flutter simple ui](https://github.com/rutvik-tanti/simple_flutter_ui):**
+  - create flutter simple ui splash, registration, login and dashboard page
 
 ## 💬 Get in Touch
 
-I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out to me via [Your Preferred Contact Method].
+I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out to me via.
 
 - **Email:** rutviktanti@gmail.com
 
