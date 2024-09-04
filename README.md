@@ -1,39 +1,51 @@
-Gallery App License Agreement
+# Welcome to My GitHub Profile! 👋
 
-IMPORTANT: READ CAREFULLY BEFORE USING THE GALLERY APP SOFTWARE
+Hello! I'm [Your Name], a passionate developer with a love for coding, problem-solving, and continuous learning. I'm excited to share my projects and collaborate with like-minded individuals.
 
-This license agreement (the "Agreement") is a legal agreement between you (the "Licensee") and [Your Company/Your Name] (the "Licensor"). By using the Gallery App software (the "Software"), you are agreeing to be bound by the terms and conditions of this Agreement.
+## 🌟 What You'll Find Here
 
-1. GRANT OF LICENSE
+- **Projects:** A collection of my personal and collaborative projects, showcasing my skills in [Your Programming Languages/Technologies].
+- **Open Source Contributions:** My contributions to open source projects.
+- **Learning Journey:** Repositories where I explore new technologies, languages, and frameworks.
 
-Licensor grants to Licensee a non-exclusive, non-transferable license to use the Software for specific tasks and solutions related to the Gallery App.
-Licensee may not sublicense, lease, rent, or distribute the Software to any third party.
+## 🔧 Technologies & Tools
 
-2. RESTRICTIONS
+- **Languages:**
+  - Java
+  - Dart
+  - XML
+    
+- **Frameworks:**
+  - Flutter
+  - Firebase (for backend services)
+  - Bloc / Riverpod / Provider (for state management)
+  - Android
+    
+- **Tools:** 
+  - Visual Studio Code / Android Studio (for IDEs)
+  - Git & GitHub
+  - Postman (for API testing)
+  - Figma / Adobe XD (for design collaboration)
+  - Pub.dev (for Dart packages)
+  - Postman (for API testing)
 
-Licensee shall not modify, reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software.
-Licensee shall not use the Software for any purpose not expressly authorized by this Agreement.
+## 🚀 Projects I'm Proud Of
 
-3. CONTACT INFORMATION
+- **[android_java_simple_state_management](https://github.com/rutvik-tanti/android_java_simple_state_management):**
+  - Simple state management activity to activity one list only call with show and add runtime with MutableLiveData.
+  - Note :- Not use one Activity to call fragment to show data use activity to activity
+    
+- **[gallery app](https://github.com/rutvik-tanti/gallery):**
+  - Simple gallery app show images, videos and delete, detail, share, favorite, play video and images display viewpager
+    
+- **[Project 3 Name](Link to Project 3 Repository):** Brief description of the project.
 
-Licensee agrees to contact Licensor at [rutvikpatel0q@gmail.com] for any problems or issues related to the setup or use of the Software.
+## 💬 Get in Touch
 
-4. WARRANTY DISCLAIMER
+I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out to me via [Your Preferred Contact Method].
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+- **Email:** rutviktanti@gmail.com
 
-5. LIMITATION OF LIABILITY
+Thank you for visiting my GitHub profile. I hope you find something interesting here!
 
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-6. TERMINATION
-
-This Agreement is effective until terminated. Licensee may terminate this Agreement at any time by destroying all copies of the Software. This Agreement will terminate immediately without notice if Licensee breaches any term of this Agreement.
-
-By using the Software, Licensee acknowledges that they have read and understood this Agreement and agree to be bound by its terms and conditions.
-
-[Rutvik Tanti]
-[rutvikpatel0q@gmail.com]
-[07-01-2024]
+Happy coding! 😊
